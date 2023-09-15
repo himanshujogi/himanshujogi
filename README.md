@@ -3,7 +3,7 @@
 
 - ⚡ About me **I'm on a mission to orchestrate seamless code deployments and epic playlists. 🚀🎧🎶**
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning **CI/CD**
 
 - 🕹️ Technologies I can play with **Docker,Linux,Penetration testing and more**
 
