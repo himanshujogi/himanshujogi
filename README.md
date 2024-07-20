@@ -1,4 +1,4 @@
-<h1 align="center">Hey 🙀, I'm Himanshu Jogi</h1>
+<h1 align="center">Hey 🦊, I'm Himanshu Jogi</h1>
 <h3 align="center">Cybersecurity Sentinel 🔐🛡️</h3>
 
 - ⚡ About me **I'm on a quest to uncover vulnerabilities and build resilient cyber defenses. 🚀🔐**
