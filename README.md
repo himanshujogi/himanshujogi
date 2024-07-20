@@ -1,9 +1,9 @@
 <h1 align="center">Hey 🙀, I'm Himanshu Jogi</h1>
-<h3 align="center">Scripting DevOps Magic 🔮🧙🏼‍♂️</h3>
+<h3 align="center">Cybersecurity Sentinel 🔐🛡️</h3>
 
-- ⚡ About me **I'm on a mission to orchestrate seamless code deployments and epic playlists. 🚀🎧🎶**
+- ⚡ About me **I'm on a quest to uncover vulnerabilities and build resilient cyber defenses. 🚀🔐**
 
-- 🌱 I’m currently learning **CI/CD**
+- 🌱 I’m currently learning **Pentesting**
 
 - 🕹️ Technologies I can play with **Docker,Linux,Penetration testing and more**
 
