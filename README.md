@@ -1,11 +1,11 @@
 <h1 align="center">Hey 🐱‍💻, I'm Himanshu Jogi</h1>
 <h3 align="center">Cybersecurity Sentinel 🔐🛡️</h3>
 
-- ⚡ About me **I'm on a quest to uncover vulnerabilities and build resilient cyber defenses. 🚀🔐**
+- ⚡ About me **Playing with security**
 
-- 🌱 I’m currently learning **Pentesting**
+- 🌱 I’m currently learning **Microsoft Sentinel**
 
-- 🕹️ Technologies I can play with **Docker,Linux,Penetration testing and more**
+- 🕹️ Technologies I can play with **XDR, SIEM, Docker, Linux, Penetration testing, and more**
 
 
 <p align="left">
