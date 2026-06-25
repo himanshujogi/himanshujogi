@@ -1,11 +1,11 @@
-<h1 align="center">Hey I'm Himanshu</h1>
-<h3 align="center">Cybersecurity Explorer 🔐🛡️</h3>
+<h1 align="center">Hey! I'm Himanshu</h1>
+<h3 align="center"> $ECURITY 🔐🛡️</h3>
 
-- ⚡ About me **Playing with security**
+- ⚡ About me **MS Student who loves playing with technology**
 
 - 🌱 I’m currently learning **Microsoft Sentinel**
 
-- 🕹️ Technologies I can play with **XDR, SIEM, Docker, Linux, Penetration testing, and more**
+- 🕹️ Technologies I can play with **XDR, SIEM, Docker, Linux, Networking, and more**
 
 
 <p align="left">
