@@ -1,5 +1,5 @@
-<h1 align="center">Hey 🐱‍💻, I'm Himanshu Jogi</h1>
-<h3 align="center">Cybersecurity Sentinel 🔐🛡️</h3>
+<h1 align="center">Hey I'm Himanshu</h1>
+<h3 align="center">Cybersecurity Explorer 🔐🛡️</h3>
 
 - ⚡ About me **Playing with security**
 
